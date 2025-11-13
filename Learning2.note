@@ -17,4 +17,6 @@ let myGreeting = greeting + name
 // Log myGreeting to the console
 console.log(myGreeting)
 
++= takes the current value of the variable then concatenate it with the new one
+
 
